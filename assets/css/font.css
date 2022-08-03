@@ -1,0 +1,73 @@
+@font-face{
+    font-family: P131;
+    src:url(../fonts/DancingScript-VariableFont_wght.ttf)
+}
+@font-face{
+    font-family: P132;
+   src: url(../fonts/AmaticSC-Bold.ttf);
+}
+@font-face{
+    font-family: P133;
+   src: url(../fonts/Cardo-Regular.ttf);
+}
+@font-face{
+    font-family: P134;
+   src: url(../fonts/LobsterTwo-Bold.ttf);
+}
+@font-face{
+    font-family: P135;
+   src: url(../fonts/PatrickHand-Regular.ttf);
+}
+@font-face{
+    font-family: P136;
+   src: url(../fonts/Yellowtail-Regular.ttf);
+}
+
+body{
+    background-color:bisque;
+}
+.main{
+    width: 500px;
+    height: 620px;
+    background-color:white;
+    margin-left: 500px;
+    margin-top: 60px;
+    box-shadow: 10px 5px 10px 5px #938293de;
+   
+}
+.font1{
+   text-align: center;
+   font-size: 30px;
+   padding-top: 10px;
+   font-family: P131;
+   
+}
+.font2{
+    text-align: center;
+    font-family: P132;
+    word-spacing: 5px;
+    
+}
+.font3{
+    text-align: center;
+    font-family: P133;
+    font-size: 15px;
+ }
+ .font4{
+    text-align: center;
+    font-family: P134;
+    font-size: 20px;
+    margin-top: 40px
+ }
+ .font5{
+    text-align: center;
+    font-family: P135;
+    font-size: 15px;
+    margin-top: 10px;
+ }
+ .font6{
+    text-align: center;
+    font-family: P136;
+    font-size: 20px;
+    margin-top: 10px;
+ }
